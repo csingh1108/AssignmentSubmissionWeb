@@ -1,0 +1,32 @@
+.assignment-wrapper{
+    border: 1px dashed lightgray;
+    padding: 2em;
+    border-radius: 1em;
+    margin-top: 2em;
+}
+
+.assignment-wrapper-title{
+    margin-top: -2em !important;
+    background-color: white !important;
+    white-space: nowrap !important;
+    width: min-content !important;
+    margin-bottom: 1em !important;
+}
+
+.comment-bubble{
+    background: #F5F5F5;
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em 0em;
+}
+
+.nav {
+    min-height: 100px;
+    border-bottom: 1px solid grey;
+
+    width: 100%;
+}
+
+.NavBar {
+    padding-top: 25px;
+}
